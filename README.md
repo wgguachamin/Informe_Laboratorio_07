@@ -19,6 +19,7 @@ Entender el funcionamiento de inductores y capacitores armando circuitos en las 
 
 ![Inductor (1)](https://user-images.githubusercontent.com/93960809/153540549-3775a2b1-2339-4bf8-ac15-f0d754b398f0.png)
 
+![Diagrama en blanco - Página 1](https://user-images.githubusercontent.com/93960809/153541854-a79dc861-6d74-4ec8-88bd-af3f00158ff6.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
