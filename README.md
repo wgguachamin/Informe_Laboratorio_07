@@ -199,6 +199,12 @@ C) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+Para calcular el margen de error efectuado en cada una de las mediciones obtenidas de forma analítica y experimental se usa la siguiente formula del cálculo de error.
+
+![image](https://user-images.githubusercontent.com/93960809/153619609-9a23500f-58a8-4635-b47e-374c1bf91812.png)
+
+![image](https://user-images.githubusercontent.com/93960809/153619562-4b700f30-161e-47c2-8506-c06be5c92eaa.png)
+
          Análisis de resultados
 
 A.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
