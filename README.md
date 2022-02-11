@@ -223,6 +223,8 @@ Los valores eficaces de voltaje y corriente son aquellos valores que tendría un
 
 5. VIDEO
 
+https://youtu.be/uDXLTB0mAYE
+
 6. CONCLUSIONES
 
 •Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
