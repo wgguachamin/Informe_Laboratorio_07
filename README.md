@@ -29,7 +29,7 @@ Entender el funcionamiento de inductores y capacitores armando circuitos en las 
 
 3.2. PROCEDIMIENTO
 
-- Construya en el protoboard el circuito mostrado en la Figura 1.
+3.2.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
 ![image](https://user-images.githubusercontent.com/94008521/153513774-717f0ce4-bff3-4c0e-9765-107723da170c.png)
 
@@ -121,7 +121,9 @@ D) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
 ![image](https://user-images.githubusercontent.com/94008521/153518543-caa71eb1-5783-4ede-9aac-be2580e6cedf.png)
 
+ 3.2.2 Construya el circuito mostrado en la Figura 2
 
+![image](https://user-images.githubusercontent.com/93415377/153537037-80f53215-7a5d-4b3b-9df6-928c45089acb.png)
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
