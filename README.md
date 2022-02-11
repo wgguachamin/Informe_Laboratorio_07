@@ -127,26 +127,72 @@ D) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
 -Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
+A) Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
+
 - Para 0 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537302-2734f45d-aba9-4449-af80-f1094e471591.png)
+
+
+- Para 10 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537311-46a79a9a-a872-4199-a4ff-6c58699b3b45.png)
+
+
+- Para 50 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537323-d797ad17-c8a2-4a90-ace1-80930a7827e2.png)
+
+
+- Para 100 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537336-b376785a-e249-468b-a595-39906e11c66f.png)
+
+
+- Para 500 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537348-eb8a930e-c642-40aa-9217-3b7f0a320999.png)
+
+
+- Para 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537356-36cf12b9-ef11-4d24-96c0-3ceb3c662212.png)
+
+B) Utilice un multímetro para medir el voltaje y corriente variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000. Anote los resultados.
+
+- Para 0 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537469-f72486d9-4c42-482b-a266-7cc51ecd5559.png)
 
 
 
 - Para 10 Hz
 
+![image](https://user-images.githubusercontent.com/93415377/153537476-e507ad79-a744-4842-a868-b1968f7f4ccb.png)
+
 
 
 - Para 50 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537480-d9d2eff7-b826-4143-a133-2a47b41160a2.png)
 
 
 
 - Para 100 Hz
 
-
+![image](https://user-images.githubusercontent.com/93415377/153537490-5bec0cc4-a2f1-4c9e-9866-5e0c731e860f.png)
 
 - Para 500 Hz
 
+![image](https://user-images.githubusercontent.com/93415377/153537498-83363779-645a-44e5-a6c5-57b138c52fe2.png)
 
 - Para 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93415377/153537513-4a3993ce-7653-4977-9e7e-e3b58d80cfcd.png)
+
+C) Planteamos la tabla donde se encuentran los valores obtenidos de las mediciones de la Figura 2.
+
+![image](https://user-images.githubusercontent.com/93415377/153537554-705f8be1-769d-4631-86aa-443e6ca5a9c5.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
