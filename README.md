@@ -110,6 +110,11 @@ C) Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/94008521/153518382-26a8c490-9b16-4298-a916-e6896f87d463.png)
 
+D) Planteamos la tabla donde se encuentran los valores obtenidos de las mediciones
+
+![image](https://user-images.githubusercontent.com/94008521/153518543-caa71eb1-5783-4ede-9aac-be2580e6cedf.png)
+
+
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
