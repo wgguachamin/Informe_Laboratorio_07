@@ -9,6 +9,10 @@ Entender el funcionamiento de inductores y capacitores armando circuitos en las 
 
 1.2. OBJETIVOS ESPECÍFICOS
 
+•Examinar el comportamiento tanto de inductores como capacitores en los circuitos a armarse en las plataformas de laboratorio virtual, analizando dichos comportamientos en circuitos DC y Ac, además de identificar que elementos de los circuitos se encuentran en serie y en paralelo a fin de armar correctamente el circuito. 
+
+•Comprender de manera eficaz el uso de instrumentos de medición tal como es el osciloscopio, y tratar de que esto se asemeje lo que más se pueda a la realidad, es decir, a los instrumentos presentes en el laboratorio físico. 
+
 2. MARCO TEÓRICO
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
