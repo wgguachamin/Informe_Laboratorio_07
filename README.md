@@ -205,19 +205,19 @@ C) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
       
       Preguntas
 
-      A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
       
 En corriente continua cuando la frecuencia es de cero Hz la bobina actúa como un corto circuito y deja pasar la corriente a través de la misma sin ningún tipo de oposición, mientras que el capacitor guardará dicha carga o energía. 
 
-      B.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+B.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 En corriente alterna, un capacitor actúa como circuito abierto. Por lo que cuando se conecta el capacitor a una fuente de voltaje alterna, el voltaje en las placas cambia de acuerdo al cambio de voltaje de fuente así como cambia las placas de dicho capacitor. Por otro lado, cuando a la bobina se le aplica una corriente alterna, esta produce un campo magnético. 
 
-      C.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+C.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 Para el caso del primer circuito, si se usan capacitores de valores distintos va a existir una ligera variación del voltaje y corriente; en cambio para el circuito 2, si se usan dos bobinas de valores distintos, la corriente permanecerá constante, es decir, no va a cambiar, sin embargo el voltaje tiende a aumentar o disminuir.
 
-      D.- ¿Qué son los valores eficaces de voltaje y corriente?
+D.- ¿Qué son los valores eficaces de voltaje y corriente?
       
 Los valores eficaces de voltaje y corriente son aquellos valores que tendría una corriente continua que produjera la misma potencia que la corriente alterna para dicho caso específico, es decir, un valor eficaz sería si al aplicar corriente alterna y luego continua sobre una resistencia la potencia debe ser igual. 
 
