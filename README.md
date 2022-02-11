@@ -4,6 +4,9 @@ PRÁCTICA N°07 INDUCTOR Y CAPACITOR
 
 1.1. OBJETIVO GENERAL
 
+Entender el funcionamiento de inductores y capacitores armando circuitos en las plataformas Dcaclab y Multisim verificando su comportamiento para circuitos DC y AC, de modo que se empleen los conocimientos adquiridos en clase.
+
+
 1.2. OBJETIVOS ESPECÍFICOS
 
 2. MARCO TEÓRICO
