@@ -193,13 +193,14 @@ C) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+      A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+      
+      
+      B.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+      C.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
+      D.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 
 5. VIDEO
