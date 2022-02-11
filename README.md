@@ -123,7 +123,31 @@ D) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
  3.2.2 Construya el circuito mostrado en la Figura 2
 
-![image](https://user-images.githubusercontent.com/93415377/153537037-80f53215-7a5d-4b3b-9df6-928c45089acb.png)
+   ![image](https://user-images.githubusercontent.com/93415377/153537037-80f53215-7a5d-4b3b-9df6-928c45089acb.png)
+
+-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+- Para 0 Hz
+
+
+
+- Para 10 Hz
+
+
+
+- Para 50 Hz
+
+
+
+- Para 100 Hz
+
+
+
+- Para 500 Hz
+
+
+- Para 1000 Hz
+
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
