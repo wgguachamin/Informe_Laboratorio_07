@@ -201,7 +201,18 @@ C) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
       Análisis de resultados
 
-      A.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+A.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+De los resultados obtenidos y colocados en las tablas que se encuentran arriba en el informe, se puede comentar que: 
+
+Para el circuito 1: 
+
+Se puede observar que cuando la frecuencia es cero la corriente igualmente tiene un valor de cero, y a medida que se va aumentando los valores de frecuencia así mismo la corriente va en aumento. Por lo que de esto se puede concluir que en el circuito con capacitores, a mayor frecuencia mayor corriente. Por otro lado, para el voltaje se puede observar que es lo contrario ya que a frecuencia cero el valor de voltaje es mayor y va reduciéndose a medida que la frecuencia va en aumento, aquí cabe destacar que los valores de voltaje distan un poco y esto es debido a que en el osciloscopio de dcaclab no se puede ver un valor concreto de valor pico, ya que se debe colocar el cursor en la onda sinusoidal para así ver un valor aproximado.  
+
+Para el circuito 2: 
+
+A diferencia del circuito 1, para este circuito 2 compuesto de inductores se puede observar que los resultados de valores de corriente y voltaje son inversos a lo que sucedía en el primer circuito. En primer lugar, se puede observar que cuando la frecuencia es de cero, tanto voltaje como corriente igualmente van a ser cero. Por otro lado, ya comenzando con el siguiente valor de frecuencia más baja, osea de 10 Hz, se puede observar que se va a tener un valor mínimo de voltje V0 y a medida que se va aumentando la frecuencia, igualmente va incrementando el valor de voltaje. Por el contrario, para la corriente cuando la frecuencia vale 10 Hz se puede observar que la corriente está en su valor más alto y a medida que va aumentando la frecuencia, la corriente va disminuyendo. Así mismo, para este caso los valores de voltaje difieren un poco debido a que en el osciloscopio de multisim se muestra un valor aproximado de voltaje.
+      
       
       Preguntas
 
