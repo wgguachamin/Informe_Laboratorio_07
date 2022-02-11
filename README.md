@@ -15,6 +15,9 @@ Entender el funcionamiento de inductores y capacitores armando circuitos en las 
 
 2. MARCO TEÓRICO
 
+![Inductor](https://user-images.githubusercontent.com/93960809/153538926-459fdf7e-df77-48db-8510-72b8ef68d8e7.png)
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 3.1. MATERIALES
