@@ -196,6 +196,12 @@ C) Planteamos la tabla donde se encuentran los valores obtenidos de las medicion
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+      Análisis de resultados
+
+      A.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+      
+      Preguntas
+
       A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
       
       
